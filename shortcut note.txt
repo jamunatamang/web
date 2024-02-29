@@ -1,0 +1,24 @@
+ctrl+t= open new tab
+ctrl+w= close new tab
+ctrl+/ =comment
+ctrl+shift=all select
+ctrl+enter=create new line
+ctrl+space= option anchor tag
+this person does not exit= persons picture
+id ko lati css ma # use garne, unique design ko lagi use garne
+#id{
+}
+class ko lagi css ,a dot(.) use garne
+
+decendent selector 
+id selector
+
+ctrl+{= left and right move
+
+red hex value= #ff0000
+     rgb value=(255, 0, 0)
+
+git:
+jamuna9823019832
+
+
