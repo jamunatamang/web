@@ -1,0 +1,15 @@
+git: It is a verson control
+
+Initial one time setup
+1. git init
+2. git remote add origin <git url>
+  eg: git remote add origin https://github.com/jamunatamang/web
+
+to check step 2
+ - git remote -v
+
+ Daily purpose
+ 1. git status
+ 2. git add .  // git add all
+ 3. git commit -m "first class"
+ 

@@ -19,6 +19,16 @@ red hex value= #ff0000
      rgb value=(255, 0, 0)
 
 git:
-jamuna9823019832
+name:jamunatamang
+password:jamunatamang12345
+
+steps1: git
+steps2: git init
+step3: git add .
+step4: git commit -m "first push"
+step5: git config --global user.email "you@example.com"
+step6:  git config --global user.name "Your Name"
+step7: git commit -m "first push"
+step8:git push  
 
 
